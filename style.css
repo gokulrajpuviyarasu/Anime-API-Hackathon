@@ -1,0 +1,25 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+ 
+  
+  button {
+    width: 150px;
+    background-color: #52f7f2;
+    color: rgba(7, 13, 14, 0.856);
+    font-size: 25px;
+    padding: 10px;
+  }
+  #myInput {
+    margin: auto;
+    width: 400px;
+    height: 45px;
+  }
